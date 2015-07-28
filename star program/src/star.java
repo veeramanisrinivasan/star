@@ -6,7 +6,7 @@ public class star {
 		{
 			for(int j=0;j<=i;j++)
 			{
-				System.out.print("starprogram");
+				System.out.print("starsss");
 				System.out.print("*");
 			}
 			System.out.println();
